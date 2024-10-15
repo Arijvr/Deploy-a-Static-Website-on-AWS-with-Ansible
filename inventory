@@ -1,0 +1,7 @@
+10.0.2.15
+10.0.3.122
+
+
+
+[all:vars]
+ansible_python_interpreter=/usr/bin/python2.7
